@@ -4,7 +4,7 @@
 
 **Project structure:**
 
-your_root_dir/  ## **<-- To run the tests, you need to be here**\
+your_root_dir/  **<-- To run the tests, you need to be here**\
 ├── src/\
 ├── tests/\
 ├── venv/\
