@@ -1,3 +1,4 @@
 # Pytest для Python-разработчиков: Уверенное автоматизированное тестирование
 
-[https://stepik.org/course/259625/promo](https://stepik.org/course/259625/promo){:target="_blank"}
+[This is course on Stepik](https://stepik.org/course/259625/promo){target="_blank"}
+<!-- [Google](https://google.com) (откроется в новой вкладке) -->
