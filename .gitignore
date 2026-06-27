@@ -1,0 +1,5 @@
+pytest_notes.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
