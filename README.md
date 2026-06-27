@@ -4,8 +4,8 @@
 
 **Project structure:**
 
-my_pytest_course/  **<-- To run the tests, you need to be here**
-├── src/
-├── tests/
-├── venv/
-└── requirements.txt
+my_pytest_course/  **<-- To run the tests, you need to be here**\
+├── src/\
+├── tests/\
+├── venv/\
+└── requirements.txt\
