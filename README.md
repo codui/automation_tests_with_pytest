@@ -4,7 +4,7 @@
 
 **Project structure:**
 
-my_pytest_course/  **<-- To run the tests, you need to be here**\
+your_root_dir/  **<-- To run the tests, you need to be here**\
 ├── src/\
 ├── tests/\
 ├── venv/\
