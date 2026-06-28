@@ -1,6 +1,6 @@
 # Pytest для Python-разработчиков: Уверенное автоматизированное тестирование
 
-## [https://stepik.org/course/259625/promo](https://stepik.org/course/259625/promo) (откроется в этой же вкладке)
+## [https://stepik.org/course/259625/promo](https://stepik.org/course/259625/promo) (will open in the same tab)
 
 To install Pytest run command in terminal: \
 pip install pytest
